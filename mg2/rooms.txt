@@ -51,7 +51,7 @@ NORTH 3
 Dead End
 As you enter this dark and forbidding cavern you hear the roar of some enormous monster.
 You decide that leaving this place would be a great idea.
-There is a Shield here.
+There is a Shield here
 You can go EAST
 ----
 EAST 4
